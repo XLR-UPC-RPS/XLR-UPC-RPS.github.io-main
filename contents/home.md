@@ -1,6 +1,5 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XLR-UPC-RPS](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XLR-UPC-RPS)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
 <code>2315040214@s.upc.edu.cn</code>  
