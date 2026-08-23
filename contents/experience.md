@@ -1,11 +1,14 @@
 ### **RoboMaster RPS战队电控**  
 **January 2025 – June 2025 | 英雄机器人电控、研发代表**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+
+
 
 <video controls width="700">
   <source src="../static/assets/video/25南部赛区1.mp4" type="video/mp4">
 </video>
+
+
 
 
 #### Key Contributions:  
