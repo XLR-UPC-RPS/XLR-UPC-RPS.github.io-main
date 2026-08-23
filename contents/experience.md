@@ -30,7 +30,10 @@ https://github.com/user-attachments/assets/474597a8-c966-4e76-8356-07a762205a03
 - 独立完成算法部署复现，基于XLerobot进行了ACT、SmolVLA等算法的实际部署，复现VR、主从双臂映射遥操作数采方式，完成了单臂物体抓取、双臂协同抓取、擦黑板等任务的复现，并根据实际需求修改了原有开源代码，解决了依赖文件版本、dataset版本标签等问题，并独立完成了双臂遥操+键盘混合控制的程序设计与调试，对于VLA相关领域有一定的研究经验
 
 ACT双臂操作视频链接  
-https://github.com/user-attachments/assets/fd2f8193-5f7f-4277-9c83-3509a725227a
+https://github.com/user-attachments/assets/fd2f8193-5f7f-4277-9c83-3509a725227a  
+
+https://github.com/user-attachments/assets/72e4fd4c-26e6-49ba-a0b8-53447f39e5d8
+
 
 
 <div style="display:flex; gap:12px; align-items:center;">
