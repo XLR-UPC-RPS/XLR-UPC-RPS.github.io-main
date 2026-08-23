@@ -49,12 +49,12 @@ https://github.com/user-attachments/assets/126e4757-54fe-47db-9e12-a3899b1628ed
 系留实验视频链接  
 https://github.com/user-attachments/assets/7e697705-2d66-475f-b42d-5b18801d5c70
 
-<div style="display:flex; gap:10px; align-items:center;">
-  <img src="static/assets/img/涵道.jpg" style="height:200px; object-fit:cover;" alt="图1">
-  <img src="static/assets/img/倾角补偿.png" style="height:200px; object-fit:cover;" alt="图2">
-  <img src="static/assets/img/喷管.jpg" style="height:200px; object-fit:cover;" alt="图3">
-</div>
 
+<div style="display:flex; gap:12px; align-items:center;">
+  <img src="static/assets/img/涵道.jpg" style="width:33%; object-fit:cover;" alt="图1">
+  <img src="static/assets/img/倾角补偿.png" style="width:33%; object-fit:cover;" alt="图2">
+  <img src="static/assets/img/喷管.jpg" style="width:33%; object-fit:cover;" alt="图3">
+</div>
 
 
 
