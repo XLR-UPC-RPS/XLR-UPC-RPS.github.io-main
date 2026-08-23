@@ -4,7 +4,7 @@
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
 <video controls width="700">
-  <source src="E:/material/DJI/作品附件/RoboMaster/25南部赛区1.mp4" type="video/mp4">
+  <source src="../static/assets/demo.mp4" type="video/mp4">
 </video>
 
 
