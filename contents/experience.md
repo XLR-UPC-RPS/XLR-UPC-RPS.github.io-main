@@ -15,9 +15,10 @@ https://github.com/user-attachments/assets/1b24e028-ee38-446e-9f81-b5c5a59edea5
 2026平衡步兵地形跨越视频链接  
 https://github.com/user-attachments/assets/474597a8-c966-4e76-8356-07a762205a03
 
-<div style="display:flex; gap:10px; align-items:center;">
-  <img src="static/assets/img/飞坡.jpg" style="height:200px; object-fit:cover;" alt="图1">
-  <img src="static/assets/img/4号步兵.jpg" style="height:200px; object-fit:cover;" alt="图2">
+
+<div style="display:flex; gap:12px; align-items:center;">
+  <img src="static/assets/img/飞坡.jpg" style="height:300px; object-fit:cover;" alt="图1">
+  <img src="static/assets/img/4号步兵.jpg" style="height:300px; object-fit:cover;" alt="图2">
 </div>
 
 
@@ -31,9 +32,10 @@ https://github.com/user-attachments/assets/474597a8-c966-4e76-8356-07a762205a03
 ACT双臂操作视频链接  
 https://github.com/user-attachments/assets/fd2f8193-5f7f-4277-9c83-3509a725227a
 
-<div style="display:flex; gap:10px; align-items:center;">
-  <img src="static/assets/img/Xlerobot.png" style="height:200px; object-fit:cover;" alt="图1">
-  <img src="static/assets/img/Xlerobot_ACT.jpg" style="height:200px; object-fit:cover;" alt="图2">
+
+<div style="display:flex; gap:12px; align-items:center;">
+  <img src="static/assets/img/Xlerobot.png" style="height:300px; object-fit:cover;" alt="图1">
+  <img src="static/assets/img/Xlerobot_ACT.jpg" style="height:300px; object-fit:cover;" alt="图2">
 </div>
 
 ---
