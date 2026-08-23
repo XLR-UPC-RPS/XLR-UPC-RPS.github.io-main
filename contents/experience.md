@@ -4,8 +4,8 @@
 
 
 
-<video controls width="700">
-  <source src="../static/assets/video/25南部赛区1.mp4" type="video/mp4">
+<video controls width="1400">
+  <source src="../static/assets/video/251.mp4" type="video/mp4">
 </video>
 
 
