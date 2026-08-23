@@ -1,14 +1,18 @@
 ### **RoboMaster RPS战队电控**  
-**January 2025 – June 2025 | 英雄机器人电控、研发代表**  
-
-
-25南部赛区视频链接 https://github.com/user-attachments/assets/83df1e51-c6b8-4308-a27d-f67d5953692f
-
+**2025 | 英雄机器人电控、研发代表**  
+25南部赛区视频链接
+https://github.com/user-attachments/assets/1b24e028-ee38-446e-9f81-b5c5a59edea5
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- 负责英雄机器人全车的控制程序设计与调试，结合控制理论推导，验证了大惯量云台的能控性，设计PID改进算法+非线性弹簧重力补偿前馈，提高了大惯量云台的控制精度和响应速度，对于英雄机器人的动态打击命中率提升有显著的作用；设计动态功率分配策略，平衡瞬时高功率爆发和整体低功耗的需求，所负责研发的机器人在ROBOMASTER分区赛南部赛区中局均伤害排名第一，获得超级对抗赛全国赛机器人竞技奖一等奖.  
+
+**2026 | 平衡步兵机器人电控**
+#### Key Contributions: 
+- 使用LQI控制器改善平衡步兵Pitch轴姿态控制，解决了步兵飞坡离地后姿态调节困难的问题，在保证小陀螺姿态稳定的同时降低控制参数调试成本
+
+2026平衡步兵地形跨越
+https://github.com/user-attachments/assets/474597a8-c966-4e76-8356-07a762205a03
+
 
 ---
 
