@@ -1,6 +1,10 @@
 ### **RoboMaster RPS战队电控**  
 **January 2025 – June 2025 | 英雄机器人电控、研发代表**  
 
+<video controls width="800">
+<source src="https://user-images.githubusercontent.com/aaa.mp4](https://github.com/user-attachments/assets/83df1e51-c6b8-4308-a27d-f67d5953692f" type="video/mp4">
+</video>
+
 <video src="https://user-images.githubusercontent.com/aaa.mp4](https://github.com/user-attachments/assets/83df1e51-c6b8-4308-a27d-f67d5953692f"></video>
 
 #### Key Contributions:  
