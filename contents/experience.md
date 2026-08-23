@@ -3,11 +3,7 @@
 
 
 
-
-<video controls width="1400">
-  <source src="../static/assets/video/251.mp4" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/83df1e51-c6b8-4308-a27d-f67d5953692f
 
 
 
