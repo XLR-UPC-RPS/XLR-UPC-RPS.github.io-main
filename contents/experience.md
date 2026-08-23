@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/474597a8-c966-4e76-8356-07a762205a03
   <img src="../static/assets/img/飞坡.jpg" style="height:200px; object-fit:cover;" alt="图1">
   <img src="../static/assets/img/4号步兵.jpg" style="height:200px; object-fit:cover;" alt="图2">
 </div>
+
+
 ---
 
 ### **清华大学智能产业研究院XLerobot复现与改进冬令营**  
