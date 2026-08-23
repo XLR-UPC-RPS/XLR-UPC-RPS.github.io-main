@@ -2,9 +2,7 @@
 **January 2025 – June 2025 | 英雄机器人电控、研发代表**  
 
 
-<video controls width="800" style="display:block; margin:10px 0;">
-  <source src="assets/video/251.mp4" type="video/mp4">
-</video>
+25南部赛区视频链接 https://github.com/user-attachments/assets/83df1e51-c6b8-4308-a27d-f67d5953692f
 
 
 #### Key Contributions:  
