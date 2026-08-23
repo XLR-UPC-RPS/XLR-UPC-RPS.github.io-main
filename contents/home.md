@@ -3,18 +3,12 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2315040214@s.upc.edu.cn</code>  
+<code>2449443413@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**中国石油大学**, 自动化  
+• GPA: 3.45/5  
 
 #### Research Interests  
-XX, XX, XX, XX.
+运动控制, 具身智能, 飞行器, RL.

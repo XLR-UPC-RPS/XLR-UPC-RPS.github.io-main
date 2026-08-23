@@ -1,3 +1,7 @@
-- 校级一等奖学金, 2022.  
+- ROBOMASTER2025机甲大师超级对抗赛全国总决赛一等奖.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- ROBOMASTER2026机甲大师超级对抗赛全国总决赛一等奖. 
+
+- 2024山东省大学生物理创新大赛理论竞赛一等奖.
+
+- 2023~2024年度学习优秀奖学金.
