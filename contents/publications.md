@@ -1,6 +1,2 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
+- 目前还没有论文发表哦~
 
